@@ -1,9 +1,10 @@
 # ⏰ GO-Docker-Local Time Zone
 
  This simple code will let you know how to deal with local time zone in docker containers when you are building and running golang binaries inside docker containers.
- Environment:
  
  -
+ 
+ #### Environment:
  
  ##### Golang: `go version go1.15.3 darwin/amd64` 
  ##### Docker: `Docker version 19.03.13, build 4484c46d9d`
